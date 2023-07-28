@@ -36,7 +36,7 @@ https://github.com/ganateja1me/ToDoList/assets/96363115/51129415-ca3b-48fa-a071-
 
 #### Run server locally
 
-> Go to localhost:3000
+> Go to localhost:8000
 
 
 
